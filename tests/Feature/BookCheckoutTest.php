@@ -103,4 +103,5 @@ class BookCheckoutTest extends TestCase
         $this->assertCount(0, Reservation::all());
 
     }
+
 }
